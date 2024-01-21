@@ -3,9 +3,14 @@
 
 # 걸어볼래 - 위치 기반 산책 기록 서비스
 
+
 [1. 프로젝트 소개 - 기간, 팀구성, 서비스 소개 등](#1-프로젝트-소개)  
-[2. 기능 데모](#2-기능-데모)  
+[2. 주요 기능 데모](#2-주요-기능-데모)  
 [3. 나의 작업(기능 구현)](#3-나의-주요-작업-기여도-100가-아닌-것은-따로-표시)
+
+<br>
+
+***** [2024-01-22] 현재 서버 문제로 서비스를 이용할 수 없습니다. 기존 유저 데이터 손실 및 기타 오류 발생. 처리 중 입니다. *****
 
 <br>
 
@@ -20,12 +25,13 @@
 
 <br>
 
-## 2. 기능 데모
+## 2. 주요 기능 데모
 
-<!-- 로그인 회원가입 -->
-<!-- 자동로그인 -->
-<!-- 걷기시작~기록~종료 -->
-<!-- 기록조회 -->
+|걷기시작(경로추적)|순간기록작성|걷기종료(기록저장)|기록조회|
+|:---:|:---:|:---:|:---:|
+|<img width="220" src="https://github.com/fivethreeeo/would-you-walk/assets/41741221/1c6eb3cb-4f90-4056-b3c3-bfb0b13a0eb9">|<img width="220" src="https://github.com/fivethreeeo/would-you-walk/assets/41741221/ca13d44b-6364-42dc-992b-c0f172e72168">|<img width="220" src="https://github.com/fivethreeeo/would-you-walk/assets/41741221/573ba337-318c-4372-a6c2-c8496893ecc1">|<img width="180" src="https://github.com/fivethreeeo/would-you-walk/assets/41741221/687b24a4-f41d-4fa0-96a3-beaa36f78f89">|
+
+
 
 <br>
 
